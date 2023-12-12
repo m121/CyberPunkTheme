@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn-glow:hover {
+  box-shadow: rgba(18, 179, 168, 0.5) 0px 0px 20px 0px;
+}

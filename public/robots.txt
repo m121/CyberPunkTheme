@@ -1,0 +1,8 @@
+Sitemap: https://marketingempleos.lat/
+Sitemap: https://marketingempleos.lat/seo
+Sitemap: https://marketingempleos.lat/analistadedatos
+Sitemap: https://marketingempleos.lat/communitymanager
+Sitemap: https://marketingempleos.lat/emailmarketing
+
+User-agent: *
+Allow: /
